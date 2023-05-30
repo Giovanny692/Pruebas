@@ -1,8 +1,8 @@
-print ("elo gais")
-print ("ahora esto va a la rama")
-print ("otra cosa")
-if (True):
-    print ("true")
-if (True):
-    print ("tru")
-print ("cambio2333")      
+def sumar_numeros(numero1,numero2):
+    return numero1+numero2      
+print ("elo gais") 
+a=input("numero 1")
+b=input("numero 2")
+c=sumar_numeros(a,b)
+print(c)
+
