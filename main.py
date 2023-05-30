@@ -5,5 +5,4 @@ if (True):
     print ("true")
 if (True):
     print ("tru")
-print ("cambio2") 
-print ("cambio3")       
+print ("cambio2")        
